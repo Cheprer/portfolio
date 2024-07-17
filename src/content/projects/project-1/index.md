@@ -1,16 +1,18 @@
 ---
-title: "Project One"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 18 2022"
+title: "FerretUp"
+summary: "Team up with you ferrets and join the ferret exhibitions easily."
+date: "Mar 23 2023"
 draft: false
 tags:
-- Astro
+- Next.js
 - Javascript
 - Typescript
 - Tailwind
-- SolidJs
-demoUrl: https://astro-sphere-demo.vercel.app
-repoUrl: https://github.com/markhorn-dev/astro-sphere
+- Sanity.io
+demoUrl: https://ferretup.com/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Web application where you can register your ferret to an exhibition. For ferret exhibition organizers they can create their own exhibition, fill in all the details and people can also already pay to you. At a date of the show judging and scoring including final result calculations is done so no need for sheets of paper or excel sheets anymore.
+
+Done it in Next.js out of curiosity to try this tech everybody talked, at the time, as a usefull tool for my wife and ferret enthusiasts.
+

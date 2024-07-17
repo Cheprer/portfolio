@@ -1,15 +1,16 @@
 ---
-title: "Project Two"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 17 2022"
+title: "MindBot"
+summary: "Controlling the robot Lego EV3 using EPOC headset"
+date: "May 30 2016"
 draft: false
 tags:
-- Svelte
-- Sveltekit
-- Typescript
-- Tailwind
+- C
+- C++
+- Qt
+- Java
+- EEG
+demoUrl: https://www.youtube.com/watch?v=tFh55jDvp_E
+repoUrl: https://dspace.vsb.cz/handle/10084/116180
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Lego Mindstorms EV3 is control unit which controls the connected particular sensors and motors. Emotiv neuroheadset EPOC serves as brain-computer interface. Two applications has been implemented. One MindBotRobotPart for taking care of control of the robot which runs on EV3 control unit (Java) and second MindBot Emotiv2Robot which serves as GUI (Qt) and connector with algorithms between EPOC headset and EV3 application (C/C++).
